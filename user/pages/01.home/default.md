@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Zadanie 10
 body_classes: title-center title-h1h2
 ---
 # Táto stránka je hostovaná na Azure!
